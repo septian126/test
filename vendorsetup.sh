@@ -1,0 +1,2 @@
+add_lunch_combo xtended_whyred-user
+add_lunch_combo xtended_whyred-userdebug
